@@ -2,6 +2,8 @@
 
 Codeigniter 3 QR Code Generator
 
+If you want CodeIgniter4 version, see <https://github.com/kenjis/ci4-qrcode>.
+
 ![Screenshot](./screenshot/1-home.png)
 
 ## Description
